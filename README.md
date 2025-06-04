@@ -14,7 +14,7 @@ Campinas, 03 junho de 2025
 
 ### 🔍 Discussão
 
-## ✅ Quais técnicas são escaláveis? (Escolhi apenas 3)
+## ✅ Quais técnicas são escaláveis?
 
 ### 🔐 Provisionamento automatizado de dispositivos com certificados TLS  
 - Scripts que geram e instalam certificados TLS para cada BitDogLab de forma automatizada, integrando isso ao processo de implantação.  
