@@ -18,11 +18,11 @@ Campinas, 03 junho de 2025
 
 ### 🔐 Provisionamento automatizado de dispositivos com certificados TLS  
 - Scripts que geram e instalam certificados TLS para cada BitDogLab de forma automatizada, integrando isso ao processo de implantação.  
-- Evita configuração manual e reduz erros na segurança.
+  - Evita configuração manual e reduz erros na segurança.
 
 ### 📊 Gerenciamento centralizado de dispositivos  
 - Utilização de um painel (como Node-RED, Grafana ou painel web customizado com Angular) para visualizar o status e dados de cada BitDogLab.  
-- Facilita o monitoramento em tempo real e a manutenção em larga escala.
+  - Facilita o monitoramento em tempo real e a manutenção em larga escala.
 
 ### 🧩 Estruturação de tópicos MQTT por local/função  
 - Organizar os tópicos de publicação/assinatura com base na localização ou propósito do dispositivo, como:  
