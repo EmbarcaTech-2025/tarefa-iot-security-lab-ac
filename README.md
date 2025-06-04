@@ -81,7 +81,7 @@ Se você chegou até aqui e conseguiu operar o sistema de forma funcional e segu
 
 ### 📽️ Assista ao vídeo... No momento estou trabalhando neste projeto...
 
-[![Vídeo de Apresentação do Projeto](https://img.youtube.com/vi/s1REZi5idRU/0.jpg)](https://www.youtube.com/watch?v=s1REZi5idRU)
+[![Vídeo de Apresentação do Projeto](https://github.com/EmbarcaTech-2025/tarefa-iot-security-lab-ac/blob/main/segurancaemiot.png)](https://www.youtube.com/watch?v=s1REZi5idRU)
 
 ---
 
