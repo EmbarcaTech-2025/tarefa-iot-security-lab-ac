@@ -67,7 +67,8 @@ Pensando assim, mais do que habilidades em programação embarcada, esse tipo de
 
 Trata-se de um excelente exercício de maturidade técnica, que promove resiliência, atenção aos detalhes e domínio prático de integração entre hardware, protocolos de rede e boas práticas de segurança.
 
-Se você chegou até aqui e conseguiu operar o sistema de forma funcional e segura, isso demonstra competência em engenharia aplicada.
+Chegar até aqui e conseguir operar o sistema de forma funcional e segura, demonstra competência em engenharia aplicada.
+
 🎯Isso sim é engenharia real!!!
 
 ### 💬 A título de reflexão:
