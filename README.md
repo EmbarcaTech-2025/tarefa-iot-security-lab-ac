@@ -79,18 +79,9 @@ Se você chegou até aqui e conseguiu operar o sistema de forma funcional e segu
 
 ---
 
-<div>
-  <h4>📽️ Assista ao vídeo... No momento estou trabalhando neste projeto...</h4>
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/s1REZi5idRU"
-    title="Vídeo de Apresentação do Projeto"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-  ></iframe>
-</div>
+### 📽️ Assista ao vídeo... No momento estou trabalhando neste projeto...
+
+[![Vídeo de Apresentação do Projeto](https://img.youtube.com/vi/s1REZi5idRU/0.jpg)](https://www.youtube.com/watch?v=s1REZi5idRU)
 
 ---
 
