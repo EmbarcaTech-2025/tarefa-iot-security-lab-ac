@@ -80,7 +80,7 @@ Chegar até aqui e conseguir operar o sistema de forma funcional e segura, demon
 
 ---
 
-### 📽️ Assista ao vídeo... 
+### 📽️ Click e assista ao vídeo no YouTube... 
 
 [![Vídeo de Apresentação do Projeto](https://github.com/EmbarcaTech-2025/tarefa-iot-security-lab-ac/blob/main/segurancaemiot.png)](https://www.youtube.com/watch?v=s1REZi5idRU)
 
