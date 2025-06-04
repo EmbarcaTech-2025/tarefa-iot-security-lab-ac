@@ -59,7 +59,7 @@ A aplicação depende de múltiplos componentes interdependentes:
 
 Cada etapa envolve detalhes que, se mal configurados, comprometem a operação como um todo. Um certificado inválido, uma ACL restritiva, ou uma porta de rede não liberada podem inviabilizar a comunicação sem dar pistas da origem do problema.
 
-Portanto, mais do que habilidades em programação embarcada, esse tipo de projeto exercita:
+Pensando assim, mais do que habilidades em programação embarcada, esse tipo de projeto exercita:
 
 - **Compreensão sistêmica** de arquitetura de comunicação segura;
 - **Capacidade de diagnóstico técnico** frente a falhas silenciosas;
