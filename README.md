@@ -78,9 +78,18 @@ Se você chegou até aqui e conseguiu operar o sistema de forma funcional e segu
 > **Próximo desafio:** automatizar o processo de provisionamento, entrega contínua (CI/CD) e gestão escalável de dispositivos. Está pronto?
 
 ---
-
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/s1REZi5idRU/0.jpg)](https://www.youtube.com/watch?v=s1REZi5idRU)
-
+<div>
+            <h4>
+              📽️ Assista ao vídeo... No momento estou trabalhando neste
+              projeto...
+            </h4>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/watch?v=s1REZi5idRU"
+              title="Vídeo de Apresentação do Projeto"
+            ></iframe>
+          </div>
 ---
 
 ## 📜 Licença
