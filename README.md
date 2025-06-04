@@ -72,8 +72,8 @@ Chegar até aqui e conseguir operar o sistema de forma funcional e segura, demon
 🎯Isso sim é engenharia real!!!
 
 ### 💬 A título de reflexão:
-- Em 99% dos casos, os desenvolvedores atuam em soluções já concebidas, mantendo ou expandindo software existente.
-- Apenas 1% envolve a criação de novos sistemas — e dentro de um time, essa tarefa normalmente recai sobre o profissional mais experiente.
+- Em 98% dos casos, os desenvolvedores atuam em soluções já concebidas, mantendo ou expandindo software existente.
+- Apenas 2% envolve a criação de novos sistemas — e dentro de um time, essa tarefa normalmente recai sobre o profissional mais experiente.
   - Isso, por si só, já aumenta as chances de sucesso e a cobertura completa dos casos de uso.
 
 > **Próximo desafio:** automatizar o processo de provisionamento, entrega contínua (CI/CD) e gestão escalável de dispositivos. Está pronto?
