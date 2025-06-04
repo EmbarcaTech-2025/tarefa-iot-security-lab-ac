@@ -21,7 +21,7 @@ Campinas, 03 junho de 2025
 - Evita configuração manual e reduz erros na segurança.
 
 ### 📊 Gerenciamento centralizado de dispositivos  
-- Utilização de um painel (como Node-RED, Grafana ou painel web customizado) para visualizar o status e dados de cada BitDogLab.  
+- Utilização de um painel (como Node-RED, Grafana ou painel web customizado com Angular) para visualizar o status e dados de cada BitDogLab.  
 - Facilita o monitoramento em tempo real e a manutenção em larga escala.
 
 ### 🧩 Estruturação de tópicos MQTT por local/função  
