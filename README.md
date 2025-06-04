@@ -46,41 +46,7 @@ Campinas, 03 junho de 2025
 
 ---
 
-## ⚠️ Considerações Finais — Resiliência Técnica antes da Escalabilidade
-
-Este projeto não se enquadra em soluções do tipo *plug-and-play* nem segue um padrão de replicação simples como uma “receita de bolo”. Originalmente no SDK, foi transformado de tal forma a atender as especificações que praticamente virou outra aplicação. Desenvolver uma aplicação em C/C++ sobre um SDK próprio — especialmente quando executada em um ambiente containerizado — utilizando o protocolo MQTT com criptografia TLS, exige conhecimento profundo em diversas camadas da arquitetura.
-
-A aplicação depende de múltiplos componentes interdependentes:
-
-- O dispositivo cliente (BitDogLab);
-- Um broker MQTT (Mosquitto) executando em um servidor distinto;
-- Uma infraestrutura de segurança baseada em certificados TLS e controle de acesso;
-- Configurações de rede, como portas, firewall, e possíveis mapeamentos de DNS dinâmico (DDNS).
-
-Cada etapa envolve detalhes que, se mal configurados, comprometem a operação como um todo. Um certificado inválido, uma ACL restritiva, ou uma porta de rede não liberada podem inviabilizar a comunicação sem dar pistas da origem do problema.
-
-Pensando assim, mais do que habilidades em programação embarcada, esse tipo de projeto exercita:
-
-- **Compreensão sistêmica** de arquitetura de comunicação segura;
-- **Capacidade de diagnóstico técnico** frente a falhas silenciosas;
-- **Planejamento de implantação**, considerando provisionamento, atualizações e segurança contínua.
-
-Trata-se de um excelente exercício de maturidade técnica, que promove resiliência, atenção aos detalhes e domínio prático de integração entre hardware, protocolos de rede e boas práticas de segurança.
-
-Chegar até aqui e conseguir operar o sistema de forma funcional e segura, demonstra competência em engenharia aplicada.
-
-🎯Isso sim é engenharia real!!!
-
-### 💬 A título de reflexão:
-- Em 98% dos casos, os desenvolvedores atuam em soluções já concebidas, mantendo ou expandindo software existente.
-- Apenas 2% envolve a criação de novos sistemas — e dentro de um time, essa tarefa normalmente recai sobre o profissional mais experiente.
-  - Isso, por si só, já aumenta as chances de sucesso e a cobertura completa dos casos de uso.
-
-> **Próximo desafio:** automatizar o processo de provisionamento, entrega contínua (CI/CD) e gestão escalável de dispositivos. Está pronto?
-
----
-
-### 📽️ Click e assista ao vídeo no YouTube... 
+### 📽️ Vídeo... 
 
 [![Vídeo de Apresentação do Projeto](https://github.com/EmbarcaTech-2025/tarefa-iot-security-lab-ac/blob/main/segurancaemiot.png)](https://www.youtube.com/watch?v=s1REZi5idRU)
 
